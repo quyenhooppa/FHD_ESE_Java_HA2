@@ -1,0 +1,2 @@
+Car [id=1, Make=2015, Model=Suzuki, YearofManufacture=2012, Color=White, Price=8000.0, RegistrationNumber=0]
+Car [id=3, Make=2009, Model=Suzuki, YearofManufacture=2008, Color=White, Price=6000.0, RegistrationNumber=0]
