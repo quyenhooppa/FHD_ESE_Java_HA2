@@ -11,7 +11,6 @@ public class Car {
 	
 	Car(int id){
 		setId(id);
-		System.out.println("id: " + id);
 	}
 
 	@Override

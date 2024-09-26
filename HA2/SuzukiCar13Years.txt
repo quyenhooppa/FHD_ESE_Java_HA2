@@ -1,1 +1,1 @@
-Car [id=3, Make=2009, Model=Suzuki, YearofManufacture=2008, Color=White, Price=6000.0, RegistrationNumber=0]
+Car [id=3, Make=2009, Model=Suzuki, YearofManufacture=2008, Color=White, Price=6000.0, RegistrationNumber=1702]

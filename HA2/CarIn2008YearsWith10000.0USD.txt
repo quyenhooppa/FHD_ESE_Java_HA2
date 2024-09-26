@@ -1,1 +1,1 @@
-Car [id=0, Make=2010, Model=BMW, YearofManufacture=2008, Color=Blue, Price=10000.0, RegistrationNumber=0]
+Car [id=0, Make=2010, Model=BMW, YearofManufacture=2008, Color=Blue, Price=10000.0, RegistrationNumber=2798]

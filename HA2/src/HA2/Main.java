@@ -108,6 +108,7 @@ public class Main {
 		arrOfCars[0].setYearofManufacture(2008);
 		arrOfCars[0].setColor("Blue");
 		arrOfCars[0].setPrice(10000);
+		arrOfCars[0].setRegistrationNumber(2798);
 		
 		//
 		arrOfCars[1].setMake(2015);
@@ -115,6 +116,7 @@ public class Main {
 		arrOfCars[1].setYearofManufacture(2012);
 		arrOfCars[1].setColor("White");
 		arrOfCars[1].setPrice(8000);
+		arrOfCars[1].setRegistrationNumber(5647);
 		
 		//
 		arrOfCars[2].setMake(2014);
@@ -122,6 +124,7 @@ public class Main {
 		arrOfCars[2].setYearofManufacture(2012);
 		arrOfCars[2].setColor("Black");
 		arrOfCars[2].setPrice(13000);
+		arrOfCars[2].setRegistrationNumber(4832);
 		
 		//
 		arrOfCars[3].setMake(2009);
@@ -129,6 +132,7 @@ public class Main {
 		arrOfCars[3].setYearofManufacture(2008);
 		arrOfCars[3].setColor("White");
 		arrOfCars[3].setPrice(6000);
+		arrOfCars[3].setRegistrationNumber(1702);
 		
 		//
 		arrOfCars[4].setMake(2015);
@@ -136,6 +140,7 @@ public class Main {
 		arrOfCars[4].setYearofManufacture(2013);
 		arrOfCars[4].setColor("Orange");
 		arrOfCars[4].setPrice(15000);
+		arrOfCars[4].setRegistrationNumber(5643);
 		
 		//
 		arrOfCars[5].setMake(2022);
@@ -143,6 +148,13 @@ public class Main {
 		arrOfCars[5].setYearofManufacture(2020);
 		arrOfCars[5].setColor("White");
 		arrOfCars[5].setPrice(15000);
+		arrOfCars[5].setRegistrationNumber(8648);
+		
+		// Print Info
+		for (int i = 0; i < arrOfCars.length; i++) {
+			System.out.println(arrOfCars[i].toString());
+		}
+		System.out.println();
 		
 		System.out.println("**************************");
 		// a) a list of cars of a given brand
