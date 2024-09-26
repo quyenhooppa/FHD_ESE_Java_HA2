@@ -8,6 +8,7 @@ Number: 7221978
 
 ************************************************************
 SOLUTION OUTPUT: 
+
 Car [id=0, Make=2010, Model=BMW, YearofManufacture=2008, Color=Blue, Price=10000.0, RegistrationNumber=2798]
 Car [id=1, Make=2015, Model=Suzuki, YearofManufacture=2012, Color=White, Price=8000.0, RegistrationNumber=5647]
 Car [id=2, Make=2014, Model=BMW, YearofManufacture=2012, Color=Black, Price=13000.0, RegistrationNumber=4832]
